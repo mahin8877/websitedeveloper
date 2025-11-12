@@ -43,9 +43,9 @@ Total Duration: ~10–13 days
 
 💰 Pricing & Payment Terms
 Package	Description	Price
-Basic	Up to 5 pages, contact form, SEO setup	৳12,000
-Business	Up to 10 pages, blog, CMS training	৳20,000
-E-commerce	Up to 50 products, payment gateway, full store	৳35,000
+Basic	Up to 5 pages, contact form, SEO setup	$20
+Business	Up to 10 pages, blog, CMS training	$30
+E-commerce	Up to 50 products, payment gateway, full store	$40
 
 Payment Terms:
 
